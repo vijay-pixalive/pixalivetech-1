@@ -41,8 +41,8 @@ const Footer = () => {
               <div className="flex flex-col items-start gap-2">
                 <a href="/" className="hover:underline cursor-pointer">Home</a>
                 <a href="/service" className="hover:underline cursor-pointer">Services</a>
-                <a href="/hireus" className="hover:underline cursor-pointer">HireUs</a>
-                <a href="/contact" className="hover:underline cursor-pointer">Contact</a>
+                <a href="/hireus" className="hover:underline cursor-pointer">Hire U s</a>
+                <a href="/contact" className="hover:underline cursor-pointer">Contact.</a>
               </div>
 
               {/* Social Links */}
